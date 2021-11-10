@@ -13,4 +13,4 @@ We thank to the following people / organization for their support. Specially we 
  - tinkerforge
 
 
-[1] http://kicad-pcb.org 
+[1] http://kicad.org 
